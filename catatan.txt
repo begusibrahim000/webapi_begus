@@ -1,0 +1,7 @@
+# Konsep vue
+1. Ambil resource
+2. Buat script
+3. simpan web component di template
+
+# Aturan vue
+1. Di template harus 1 div
