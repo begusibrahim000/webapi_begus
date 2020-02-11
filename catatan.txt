@@ -19,7 +19,7 @@
    - git config user.email "[email_github]" / "begusibrahim000@gmail.com" -> memberitahukan bahwa project ini hanya boleh dikelola oleh email ini.
    - git config user.name "[username_github]" / "begusibrahim000" -> memberitahukan bahwa project ini hanya boleh dikelola oleh username ini di github.
    - git commit -m "init" -> memberi keterangan untuk data yang dikirim itu tujuannya untuk apa / menerapkan perubahan kepada project / bila ada error kita bisa kembalikan perubahan ke commit yang ditentukan
-   - git config --local credential.helper "" -> 
+   - git config --local credential.helper "" / git config credential.helper "$helper $options" -> untuk memastikan kredensial yang cocok 
    - git push -u origin master -> mengirim project atau perubahan ke internet
 
    [url_git] = https://github.com/begusibrahim000/webapi_begus.git
