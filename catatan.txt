@@ -10,3 +10,14 @@
  - vue-notification
     npm install --save vue-notification
  - vue-loader
+
+# upload project ke repository github by makmalf
+   * langkah pertama upload ke repository baru
+   - git init
+   - git remote add origin [url_git]
+   - git add --all
+   - git config user.email "[email_github]"
+   - git config user.name "[username_github]"
+   - git commit -m "init"
+   - git config --local credential.helper ""
+   - git push -u origin master
