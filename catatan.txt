@@ -16,8 +16,8 @@
    - git init
    - git remote add origin [url_git] / https://github.com/begusibrahim000/webapi_begus.git
    - git add --all
-   - git config user.email "[email_github]" / begusibrahim000@gmail.com
-   - git config user.name "[username_github]" / begusibrahim000
+   - git config user.email "[email_github]" / "begusibrahim000@gmail.com"
+   - git config user.name "[username_github]" / "begusibrahim000"
    - git commit -m "init"
    - git config --local credential.helper ""
    - git push -u origin master
