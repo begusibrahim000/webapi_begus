@@ -5,3 +5,8 @@
 
 # Aturan vue
 1. Di template harus 1 div
+
+# libary
+ - vue-notification
+    npm install --save vue-notification
+ - vue-loader
